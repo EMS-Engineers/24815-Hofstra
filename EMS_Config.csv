@@ -1,0 +1,93 @@
+Biamp_IP[1],10.122.155.78
+Biamp_IP[2],0.0.0.0
+Paging_Matrix_Quantity,1
+Paging_Matrix_Offset,0
+Player_Offset,0
+Play_Delay,50
+Paging_Keyword,Spk
+Camera_IP[1],10.122.155.85;1
+Camera_IP[2],10.122.155.85;2
+Camera_IP[3],10.122.155.85;3
+Camera_IP[4],10.122.155.85;4
+Camera_IP[5],10.122.155.85;5
+Camera_IP[6],10.122.155.85;6
+Camera_IP[7],10.122.155.85;7
+Camera_IP[8],10.122.155.85;8
+Camera_IP[9],10.122.155.85;9
+Camera_IP[10],10.122.155.85;10
+Camera_IP[11],10.122.155.85;11
+Camera_IP[12],10.122.155.85;12
+Camera_IP[13],10.122.155.85;13
+Camera_IP[14],10.122.155.85;14
+Camera_IP[15],10.122.155.85;15
+Camera_IP[16],10.122.155.85;16
+Camera_IP[17],10.122.155.86;1
+Camera_IP[18],10.122.155.86;2
+Camera_IP[19],10.122.155.86;3
+Camera_IP[20],10.122.155.86;4
+Camera_IP[21],10.122.155.86;5
+Camera_IP[22],10.122.155.86;6
+Camera_IP[23],10.122.155.86;7
+Camera_IP[24],10.122.155.86;8
+Camera_IP[25],10.122.155.86;9
+Camera_IP[26],10.122.155.86;10
+Camera_IP[27],10.122.155.86;11
+Camera_IP[28],10.122.155.86;12
+Camera_IP[29],10.122.155.86;13
+Camera_Label[1],406A 1
+Camera_Label[2],406A 2
+Camera_Label[3],406B 1
+Camera_Label[4],406B 2
+Camera_Label[5],406C 1
+Camera_Label[6],406C 2
+Camera_Label[7],406D 1
+Camera_Label[8],406D 2
+Camera_Label[9],406E 1
+Camera_Label[10],406E 2
+Camera_Label[11],406F 1
+Camera_Label[12],406F 2
+Camera_Label[13],406G 1
+Camera_Label[14],406G 2
+Camera_Label[15],406H 1
+Camera_Label[16],406H 2
+Camera_Label[17],406J 1
+Camera_Label[18],406J 2
+Camera_Label[19],406K 1
+Camera_Label[20],406K 2
+Camera_Label[21],406L 1
+Camera_Label[22],406L 2
+Camera_Label[23],406M 1
+Camera_Label[24],406M 2
+Camera_Label[25],SP H EAST
+Camera_Label[26],SP H INNER
+Camera_Label[27],SP H WEST
+Camera_Label[28],407 HALL
+Camera_Label[29],407 CSS
+Device_Label[1],
+Device_Label[2],
+Device_Label[3],
+Device_Label[4],
+Device_Label[5],
+Device_Label[6],
+Device_Label[7],
+Device_Label[8],
+Device_Label[9],
+Device_Label[10],
+Device_Label[11],
+Room_Label[1],406A
+Room_Label[2],406B
+Room_Label[3],406C
+Room_Label[4],406D
+Room_Label[5],406E
+Room_Label[6],406F
+Room_Label[7],406G
+Room_Label[8],406H
+Room_Label[9],406J
+Room_Label[10],406K
+Room_Label[11],406L
+Room_Label[12],406M
+Room_Label[13],SP Corridor Top
+Room_Label[14],SP Corridor Middle
+Room_Label[15],SP Corridor Lower
+Room_Label[16],CSS Corridor
+Room_Label[17],Reception
